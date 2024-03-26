@@ -1,5 +1,4 @@
 using Domain;
-using Application;
 using Microsoft.AspNetCore.Mvc;
 using Application.Activities;
 
